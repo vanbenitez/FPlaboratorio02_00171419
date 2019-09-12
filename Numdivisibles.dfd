@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+4
+1
+56
+'Verificar si un numero es dividible entre otro numero.'
+4
+1
+23
+'Ingrese los valores: '
+5
+1
+3
+a,b
+12
+1
+9
+divisores
+1
+3
+a,b
+1
+2
+1
+9
+divisores
+1
+3
+a,b
+0
+6
+1
+9
+divisores
+7
+a mod b
+7
+0
+1
+13
+divisores = 0
+4
+1
+29
+a,' no es divisible entre ',b
+13
+4
+1
+29
+a,' si es divisible entre ',b
+13
+3
